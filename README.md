@@ -26,7 +26,7 @@ Commerce Student | Web Dev 🚀 | Exploring AI Tools
 
 
 # 💡 Quote
-> “Strive not to be a success, but rather to be of value.” – Albert Einstein
+> "The things that scare you only make you stronger and better💪"
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
